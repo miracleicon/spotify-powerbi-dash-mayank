@@ -1,5 +1,5 @@
-# spotify-powerbi-dash-mayank
-# 🎧 Spotify Power BI Dashboard
+
+# 🎧 Mayank Spotify Power BI Dashboard
 
 A Power BI dashboard project that analyzes Spotify music data including top artists, tracks, genres, and listening trends. This project provides interactive visualizations to uncover insights into music preferences and user behavior.
 
